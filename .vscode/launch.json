@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/timot/OneDrive/桌面/git-tutorial/A/test1",
-      "program": "c:/Users/timot/OneDrive/桌面/git-tutorial/A/test1/build/Debug/outDebug",
+      "cwd": "c:/Users/timot/OneDrive/桌面/git-tutorial/B/test1",
+      "program": "c:/Users/timot/OneDrive/桌面/git-tutorial/B/test1/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
